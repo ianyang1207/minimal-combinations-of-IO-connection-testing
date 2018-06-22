@@ -1,4 +1,4 @@
-# unique-combination-of-2^n-number
+# Minimal Combinations of I/O Connectivity Testing
 
 Say, there is a list of 8 I/O [0,1,2,3,4,5,6,7]  
 
